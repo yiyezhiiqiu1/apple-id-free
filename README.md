@@ -35,6 +35,7 @@
 | **Goso 搜搜** | [获取链接](https://idshare001.me/goso.html) | 海外区账号专属渠道 |
 | **iOS 极速版** | [点此访问](https://free.iosapp.icu) | 响应速度快 |
 | **蓝海博客** | [阅读教程](https://www.lanhaiblog.com/post/3.html) | 附带详细登录教学 |
+| **桃子ID指南** | [立即获取](https://www.taozi55.com/) | 每小时更新，附使用规则 |
 
 ---
 
