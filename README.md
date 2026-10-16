@@ -29,12 +29,8 @@
 | :--- | :--- | :--- |
 | **官方直连 (推荐)** | [立即获取](https://52id.org) | 长期稳定，多地区可选 |
 | **苹果id共享** | [立即获取](https://52id.org) | 长期稳定，多地区可选 |
-| **CC 盒子** | [点击进入](https://ccbaohe.com/appleID/) | 账号池更新快 |
-| **金彩共享** | [快速跳转](https://id.jincaii.com) | 包含多种付费 App 账号 |
-| **IDFree 顶站** | [立即查看](https://idfree.top/) | 界面简洁，新手友好 |
-| **Goso 搜搜** | [获取链接](https://idshare001.me/goso.html) | 海外区账号专属渠道 |
-| **iOS 极速版** | [点此访问](https://free.iosapp.icu) | 响应速度快 |
-| **蓝海博客** | [阅读教程](https://www.lanhaiblog.com/post/3.html) | 附带详细登录教学 |
+| **桃子ID指南** | [点击进入](https://www.taozi55.com/) | 账号池更新快 |
+
 
 ---
 
@@ -60,3 +56,4 @@
 TG群组：https://t.me/iOSID5
 TG频道：https://t.me/iOSID3
 TG双向Bot：https://t.me/iOSID8bot
+GitHub：https://github.com/yiyezhiiqiu1/52id.org
